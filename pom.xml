@@ -10,7 +10,7 @@
     <!-- geb, spock... -->
     <properties>
         <gebVersion>0.9.3</gebVersion>
-        <seleniumVersion>2.42.2</seleniumVersion>
+        <seleniumVersion>3.0.0</seleniumVersion>
     </properties>
     <dependencies>
         <dependency>
